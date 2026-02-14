@@ -10,19 +10,19 @@ Then when prompted I entered the password which was provided on the website
 
 then i got the access of the shell
 
-bandit0@bandit:~$ ls
-readme
+>bandit0@bandit:~$ ls
+>readme
 
 I found a readme file in it so I opened it and voila.
 
-bandit0@bandit:~$ cat readme
-Congratulations on your first steps into the bandit game!!
-Please make sure you have read the rules at https://overthewire.org/rules/
-If you are following a course, workshop, walkthrough or other educational activity,
-please inform the instructor about the rules as well and encourage them to
-contribute to the OverTheWire community so we can keep these games free!
+>bandit0@bandit:~$ cat readme
+>Congratulations on your first steps into the bandit game!!
+>Please make sure you have read the rules at https://overthewire.org/rules/
+>If you are following a course, workshop, walkthrough or other educational activity,
+>please inform the instructor about the rules as well and encourage them to
+>contribute to the OverTheWire community so we can keep these games free!
 
-The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+>The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 I found the password.
 
